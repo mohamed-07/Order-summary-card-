@@ -1,2 +1,2 @@
-# Order-summary-card
-Order summary card challenge on Frontend 
+# Order-Summary-Component-Main
+Order summary card challenge on Frontend Mentor
